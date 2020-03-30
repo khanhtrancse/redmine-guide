@@ -1,5 +1,7 @@
 # Task manager using Redmine
 
+![Redmine-Slack](./docs/redmine-slack.png)
+
 This repository contains the config file and guide to run Redmine App in server to manage tasks.
 
 ### Start app
