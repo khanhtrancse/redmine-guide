@@ -17,7 +17,7 @@ This repository contains the config file and guide to run Redmine App in server 
 - `redmine_redmine_1` is the container name
 - `redmine` is the image name
 
-2. Move to `plugins` folder and clone/download plugin.
+2. Change directory to `plugins` folder and clone/download plugin.
 3. Restart redmine.
 
 #### To notify to Slack channel
